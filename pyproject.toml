@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ticker-research"
+version = "0.1.0"
+license = "MIT"
+authors = [{ name = "ianlyoo" }]
+description = "Read-only MCP server for US and KRX ticker research: SEC EDGAR facts, yfinance daily bars, explainable factors and entry scenarios"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "httpx>=0.28",
+  "yfinance>=1.2",
+  "mcp>=1.26,<2",
+  "uvicorn>=0.40",
+  "starlette>=1.7",
+  "cryptography>=50.0.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=9.1.1", "pytest-asyncio>=1.4.0", "ruff>=0.16.9"]
+
+[project.scripts]
+ticker-research = "ticker_engine.mcp_server:main"
+
+[tool.setuptools.packages.find]
+include = ["ticker_engine*"]
+
+[tool.setuptools.package-data]
+"*" = ["*.md", "*.json"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E402"]

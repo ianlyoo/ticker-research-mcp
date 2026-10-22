@@ -1,0 +1,2722 @@
+{
+  "candles": [
+    {
+      "timestamp": "2025-08-05T13:00:00.000+09:00",
+      "openPrice": "537.18",
+      "highPrice": "537.3",
+      "lowPrice": "527.24",
+      "closePrice": "527.75",
+      "volume": "19171569",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-06T13:00:00.000+09:00",
+      "openPrice": "530.9",
+      "highPrice": "531.7",
+      "lowPrice": "524.03",
+      "closePrice": "524.94",
+      "volume": "21355702",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-07T13:00:00.000+09:00",
+      "openPrice": "526.8",
+      "highPrice": "528.09",
+      "lowPrice": "517.5511",
+      "closePrice": "520.84",
+      "volume": "16079144",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-08T13:00:00.000+09:00",
+      "openPrice": "522.6",
+      "highPrice": "524.66",
+      "lowPrice": "519.41",
+      "closePrice": "522.04",
+      "volume": "15531009",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-11T13:00:00.000+09:00",
+      "openPrice": "522.3",
+      "highPrice": "527.59",
+      "lowPrice": "519.72",
+      "closePrice": "521.77",
+      "volume": "20194372",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-12T13:00:00.000+09:00",
+      "openPrice": "523.75",
+      "highPrice": "530.98",
+      "lowPrice": "522.7",
+      "closePrice": "529.24",
+      "volume": "18688921",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-13T13:00:00.000+09:00",
+      "openPrice": "532.11",
+      "highPrice": "532.7",
+      "lowPrice": "519.37",
+      "closePrice": "520.58",
+      "volume": "19619160",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-14T13:00:00.000+09:00",
+      "openPrice": "522.56",
+      "highPrice": "525.9499",
+      "lowPrice": "520.14",
+      "closePrice": "522.48",
+      "volume": "20269074",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-15T13:00:00.000+09:00",
+      "openPrice": "522.77",
+      "highPrice": "526.1",
+      "lowPrice": "519.08",
+      "closePrice": "520.17",
+      "volume": "25213272",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-18T13:00:00.000+09:00",
+      "openPrice": "521.585",
+      "highPrice": "522.82",
+      "lowPrice": "514.02",
+      "closePrice": "517.1",
+      "volume": "23760583",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-19T13:00:00.000+09:00",
+      "openPrice": "515",
+      "highPrice": "515.1641",
+      "lowPrice": "508.55",
+      "closePrice": "509.77",
+      "volume": "21481016",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-20T13:00:00.000+09:00",
+      "openPrice": "509.865",
+      "highPrice": "511",
+      "lowPrice": "504.44",
+      "closePrice": "505.72",
+      "volume": "27723025",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-21T13:00:00.000+09:00",
+      "openPrice": "503.69",
+      "highPrice": "507.63",
+      "lowPrice": "502.7201",
+      "closePrice": "504.24",
+      "volume": "18443254",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-22T13:00:00.000+09:00",
+      "openPrice": "504.25",
+      "highPrice": "510.73",
+      "lowPrice": "502.41",
+      "closePrice": "507.23",
+      "volume": "24324161",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-25T13:00:00.000+09:00",
+      "openPrice": "506.63",
+      "highPrice": "508.19",
+      "lowPrice": "504.12",
+      "closePrice": "504.26",
+      "volume": "21638579",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-26T13:00:00.000+09:00",
+      "openPrice": "504.355",
+      "highPrice": "504.9778",
+      "lowPrice": "498.51",
+      "closePrice": "502.04",
+      "volume": "30835709",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-27T13:00:00.000+09:00",
+      "openPrice": "502",
+      "highPrice": "507.29",
+      "lowPrice": "499.9",
+      "closePrice": "506.74",
+      "volume": "17277893",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-28T13:00:00.000+09:00",
+      "openPrice": "507.09",
+      "highPrice": "511.09",
+      "lowPrice": "505.5",
+      "closePrice": "509.64",
+      "volume": "18015593",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-08-29T13:00:00.000+09:00",
+      "openPrice": "508.66",
+      "highPrice": "509.6",
+      "lowPrice": "504.4915",
+      "closePrice": "506.69",
+      "volume": "20961569",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-02T13:00:00.000+09:00",
+      "openPrice": "500.465",
+      "highPrice": "506",
+      "lowPrice": "496.81",
+      "closePrice": "505.12",
+      "volume": "18127995",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-03T13:00:00.000+09:00",
+      "openPrice": "503.79",
+      "highPrice": "507.79",
+      "lowPrice": "502.32",
+      "closePrice": "505.35",
+      "volume": "16345078",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-04T13:00:00.000+09:00",
+      "openPrice": "504.3",
+      "highPrice": "508.15",
+      "lowPrice": "503.15",
+      "closePrice": "507.97",
+      "volume": "15509486",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-05T13:00:00.000+09:00",
+      "openPrice": "509.07",
+      "highPrice": "511.97",
+      "lowPrice": "492.37",
+      "closePrice": "495",
+      "volume": "31994846",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-08T13:00:00.000+09:00",
+      "openPrice": "498.105",
+      "highPrice": "501.195",
+      "lowPrice": "495.03",
+      "closePrice": "498.2",
+      "volume": "16771015",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-09T13:00:00.000+09:00",
+      "openPrice": "501.43",
+      "highPrice": "502.25",
+      "lowPrice": "497.7",
+      "closePrice": "498.41",
+      "volume": "14410542",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-10T13:00:00.000+09:00",
+      "openPrice": "502.98",
+      "highPrice": "503.2299",
+      "lowPrice": "496.72",
+      "closePrice": "500.37",
+      "volume": "21611816",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-11T13:00:00.000+09:00",
+      "openPrice": "502.25",
+      "highPrice": "503.17",
+      "lowPrice": "497.88",
+      "closePrice": "501.01",
+      "volume": "18881608",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-12T13:00:00.000+09:00",
+      "openPrice": "506.65",
+      "highPrice": "512.55",
+      "lowPrice": "503.85",
+      "closePrice": "509.9",
+      "volume": "23624884",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-15T13:00:00.000+09:00",
+      "openPrice": "508.79",
+      "highPrice": "515.47",
+      "lowPrice": "507",
+      "closePrice": "515.36",
+      "volume": "17143786",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-16T13:00:00.000+09:00",
+      "openPrice": "516.88",
+      "highPrice": "517.23",
+      "lowPrice": "508.6",
+      "closePrice": "509.04",
+      "volume": "19711922",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-17T13:00:00.000+09:00",
+      "openPrice": "510.62",
+      "highPrice": "511.29",
+      "lowPrice": "505.93",
+      "closePrice": "510.02",
+      "volume": "15816585",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-18T13:00:00.000+09:00",
+      "openPrice": "511.49",
+      "highPrice": "513.07",
+      "lowPrice": "507.66",
+      "closePrice": "508.45",
+      "volume": "18913696",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-19T13:00:00.000+09:00",
+      "openPrice": "510.56",
+      "highPrice": "519.3",
+      "lowPrice": "510.31",
+      "closePrice": "517.93",
+      "volume": "52474093",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-22T13:00:00.000+09:00",
+      "openPrice": "515.59",
+      "highPrice": "517.74",
+      "lowPrice": "512.545",
+      "closePrice": "514.45",
+      "volume": "20009314",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-23T13:00:00.000+09:00",
+      "openPrice": "513.8",
+      "highPrice": "514.5899",
+      "lowPrice": "507.31",
+      "closePrice": "509.23",
+      "volume": "19799580",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-24T13:00:00.000+09:00",
+      "openPrice": "510.38",
+      "highPrice": "512.48",
+      "lowPrice": "506.92",
+      "closePrice": "510.15",
+      "volume": "13533711",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-25T13:00:00.000+09:00",
+      "openPrice": "508.3",
+      "highPrice": "510.01",
+      "lowPrice": "505.04",
+      "closePrice": "507.03",
+      "volume": "15786468",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-26T13:00:00.000+09:00",
+      "openPrice": "510.06",
+      "highPrice": "513.94",
+      "lowPrice": "506.62",
+      "closePrice": "511.46",
+      "volume": "16213129",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-29T13:00:00.000+09:00",
+      "openPrice": "511.5",
+      "highPrice": "516.845",
+      "lowPrice": "508.88",
+      "closePrice": "514.6",
+      "volume": "17617775",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-09-30T13:00:00.000+09:00",
+      "openPrice": "513.24",
+      "highPrice": "518.16",
+      "lowPrice": "509.66",
+      "closePrice": "517.95",
+      "volume": "19728229",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-01T13:00:00.000+09:00",
+      "openPrice": "514.8",
+      "highPrice": "520.505",
+      "lowPrice": "511.69",
+      "closePrice": "519.71",
+      "volume": "22632336",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-02T13:00:00.000+09:00",
+      "openPrice": "517.64",
+      "highPrice": "521.6",
+      "lowPrice": "510.6791",
+      "closePrice": "515.74",
+      "volume": "21222886",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-03T13:00:00.000+09:00",
+      "openPrice": "517.1",
+      "highPrice": "520.49",
+      "lowPrice": "515",
+      "closePrice": "517.35",
+      "volume": "15112321",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-06T13:00:00.000+09:00",
+      "openPrice": "518.61",
+      "highPrice": "531.03",
+      "lowPrice": "518.2",
+      "closePrice": "528.57",
+      "volume": "21388581",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-07T13:00:00.000+09:00",
+      "openPrice": "528.285",
+      "highPrice": "529.8",
+      "lowPrice": "521.44",
+      "closePrice": "523.98",
+      "volume": "14615208",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-08T13:00:00.000+09:00",
+      "openPrice": "523.28",
+      "highPrice": "526.95",
+      "lowPrice": "523.09",
+      "closePrice": "524.85",
+      "volume": "13363447",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-09T13:00:00.000+09:00",
+      "openPrice": "522.335",
+      "highPrice": "524.325",
+      "lowPrice": "517.4",
+      "closePrice": "522.4",
+      "volume": "18343602",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-10T13:00:00.000+09:00",
+      "openPrice": "519.64",
+      "highPrice": "523.58",
+      "lowPrice": "509.63",
+      "closePrice": "510.96",
+      "volume": "24133840",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-13T13:00:00.000+09:00",
+      "openPrice": "516.41",
+      "highPrice": "516.41",
+      "lowPrice": "511.68",
+      "closePrice": "514.05",
+      "volume": "14284238",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-14T13:00:00.000+09:00",
+      "openPrice": "510.225",
+      "highPrice": "515.282",
+      "lowPrice": "506",
+      "closePrice": "513.57",
+      "volume": "14684300",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-15T13:00:00.000+09:00",
+      "openPrice": "514.955",
+      "highPrice": "517.19",
+      "lowPrice": "510",
+      "closePrice": "513.43",
+      "volume": "14694654",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-16T13:00:00.000+09:00",
+      "openPrice": "512.58",
+      "highPrice": "516.85",
+      "lowPrice": "508.13",
+      "closePrice": "511.61",
+      "volume": "15559565",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-17T13:00:00.000+09:00",
+      "openPrice": "509.04",
+      "highPrice": "515.48",
+      "lowPrice": "507.31",
+      "closePrice": "513.58",
+      "volume": "19867765",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-20T13:00:00.000+09:00",
+      "openPrice": "514.61",
+      "highPrice": "518.7",
+      "lowPrice": "513.43",
+      "closePrice": "516.79",
+      "volume": "14665620",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-21T13:00:00.000+09:00",
+      "openPrice": "517.5",
+      "highPrice": "518.69",
+      "lowPrice": "513.04",
+      "closePrice": "517.66",
+      "volume": "15586204",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-22T13:00:00.000+09:00",
+      "openPrice": "521.15",
+      "highPrice": "525.23",
+      "lowPrice": "517.71",
+      "closePrice": "520.54",
+      "volume": "18962694",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-23T13:00:00.000+09:00",
+      "openPrice": "522.46",
+      "highPrice": "523.95",
+      "lowPrice": "518.61",
+      "closePrice": "520.56",
+      "volume": "14023532",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-24T13:00:00.000+09:00",
+      "openPrice": "522.79",
+      "highPrice": "525.345",
+      "lowPrice": "520.71",
+      "closePrice": "523.61",
+      "volume": "15532360",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-27T13:00:00.000+09:00",
+      "openPrice": "531.78",
+      "highPrice": "534.58",
+      "lowPrice": "529.01",
+      "closePrice": "531.52",
+      "volume": "18734716",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-28T13:00:00.000+09:00",
+      "openPrice": "550",
+      "highPrice": "553.72",
+      "lowPrice": "540.77",
+      "closePrice": "542.07",
+      "volume": "29986683",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-29T13:00:00.000+09:00",
+      "openPrice": "544.94",
+      "highPrice": "546.27",
+      "lowPrice": "536.7287",
+      "closePrice": "541.55",
+      "volume": "36023004",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-30T13:00:00.000+09:00",
+      "openPrice": "530.48",
+      "highPrice": "534.97",
+      "lowPrice": "522.12",
+      "closePrice": "525.76",
+      "volume": "41023088",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-10-31T13:00:00.000+09:00",
+      "openPrice": "528.875",
+      "highPrice": "529.32",
+      "lowPrice": "515.1",
+      "closePrice": "517.81",
+      "volume": "34006424",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-03T14:00:00.000+09:00",
+      "openPrice": "519.805",
+      "highPrice": "524.96",
+      "lowPrice": "514.59",
+      "closePrice": "517.03",
+      "volume": "22374742",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-04T14:00:00.000+09:00",
+      "openPrice": "511.76",
+      "highPrice": "515.55",
+      "lowPrice": "507.84",
+      "closePrice": "514.33",
+      "volume": "20958663",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-05T14:00:00.000+09:00",
+      "openPrice": "513.3",
+      "highPrice": "514.83",
+      "lowPrice": "506.575",
+      "closePrice": "507.16",
+      "volume": "23024342",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-06T14:00:00.000+09:00",
+      "openPrice": "505.66",
+      "highPrice": "505.7",
+      "lowPrice": "495.81",
+      "closePrice": "497.1",
+      "volume": "27406496",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-07T14:00:00.000+09:00",
+      "openPrice": "496.945",
+      "highPrice": "499.377",
+      "lowPrice": "493.25",
+      "closePrice": "496.82",
+      "volume": "24019764",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-10T14:00:00.000+09:00",
+      "openPrice": "500.035",
+      "highPrice": "506.85",
+      "lowPrice": "498.8",
+      "closePrice": "506",
+      "volume": "26101480",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-11T14:00:00.000+09:00",
+      "openPrice": "504.8",
+      "highPrice": "509.6",
+      "lowPrice": "502.3488",
+      "closePrice": "508.68",
+      "volume": "17980020",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-12T14:00:00.000+09:00",
+      "openPrice": "509.355",
+      "highPrice": "511.67",
+      "lowPrice": "499.1201",
+      "closePrice": "511.14",
+      "volume": "26574851",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-13T14:00:00.000+09:00",
+      "openPrice": "510.31",
+      "highPrice": "513.5",
+      "lowPrice": "501.29",
+      "closePrice": "503.29",
+      "volume": "25273114",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-14T14:00:00.000+09:00",
+      "openPrice": "498.23",
+      "highPrice": "511.6",
+      "lowPrice": "497.44",
+      "closePrice": "510.18",
+      "volume": "28505746",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-17T14:00:00.000+09:00",
+      "openPrice": "508.45",
+      "highPrice": "512.12",
+      "lowPrice": "504.91",
+      "closePrice": "507.49",
+      "volume": "19092752",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-18T14:00:00.000+09:00",
+      "openPrice": "495.365",
+      "highPrice": "502.98",
+      "lowPrice": "486.78",
+      "closePrice": "493.79",
+      "volume": "33815114",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-19T14:00:00.000+09:00",
+      "openPrice": "490.1",
+      "highPrice": "495.1872",
+      "lowPrice": "482.83",
+      "closePrice": "487.12",
+      "volume": "23245314",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-20T14:00:00.000+09:00",
+      "openPrice": "492.71",
+      "highPrice": "493.57",
+      "lowPrice": "475.5",
+      "closePrice": "478.43",
+      "volume": "26802542",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-21T14:00:00.000+09:00",
+      "openPrice": "478.5",
+      "highPrice": "478.92",
+      "lowPrice": "468.27",
+      "closePrice": "472.12",
+      "volume": "31769248",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-24T14:00:00.000+09:00",
+      "openPrice": "475",
+      "highPrice": "476.9",
+      "lowPrice": "468.02",
+      "closePrice": "474",
+      "volume": "34421046",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-25T14:00:00.000+09:00",
+      "openPrice": "474.07",
+      "highPrice": "479.15",
+      "lowPrice": "464.89",
+      "closePrice": "476.99",
+      "volume": "28019793",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-26T14:00:00.000+09:00",
+      "openPrice": "486.31",
+      "highPrice": "488.31",
+      "lowPrice": "481.2",
+      "closePrice": "485.5",
+      "volume": "25709079",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-11-28T14:00:00.000+09:00",
+      "openPrice": "487.595",
+      "highPrice": "492.63",
+      "lowPrice": "486.65",
+      "closePrice": "492.01",
+      "volume": "14386730",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-01T14:00:00.000+09:00",
+      "openPrice": "488.435",
+      "highPrice": "489.8599",
+      "lowPrice": "484.6475",
+      "closePrice": "486.74",
+      "volume": "23963993",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-02T14:00:00.000+09:00",
+      "openPrice": "486.715",
+      "highPrice": "493.4999",
+      "lowPrice": "486.32",
+      "closePrice": "490",
+      "volume": "19562722",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-03T14:00:00.000+09:00",
+      "openPrice": "476.32",
+      "highPrice": "484.24",
+      "lowPrice": "475.2",
+      "closePrice": "477.73",
+      "volume": "34615102",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-04T14:00:00.000+09:00",
+      "openPrice": "479.76",
+      "highPrice": "481.322",
+      "lowPrice": "476.49",
+      "closePrice": "480.84",
+      "volume": "22318155",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-05T14:00:00.000+09:00",
+      "openPrice": "482.515",
+      "highPrice": "483.4",
+      "lowPrice": "478.8801",
+      "closePrice": "483.16",
+      "volume": "22608710",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-08T14:00:00.000+09:00",
+      "openPrice": "484.885",
+      "highPrice": "492.3",
+      "lowPrice": "484.38",
+      "closePrice": "491.02",
+      "volume": "21965900",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-09T14:00:00.000+09:00",
+      "openPrice": "489.1",
+      "highPrice": "492.12",
+      "lowPrice": "488.5001",
+      "closePrice": "492.02",
+      "volume": "14696078",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-10T14:00:00.000+09:00",
+      "openPrice": "484.03",
+      "highPrice": "484.25",
+      "lowPrice": "475.08",
+      "closePrice": "478.56",
+      "volume": "35756229",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-11T14:00:00.000+09:00",
+      "openPrice": "476.63",
+      "highPrice": "486.03",
+      "lowPrice": "475.86",
+      "closePrice": "483.47",
+      "volume": "24669180",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-12T14:00:00.000+09:00",
+      "openPrice": "479.82",
+      "highPrice": "482.45",
+      "lowPrice": "476.34",
+      "closePrice": "478.53",
+      "volume": "21248102",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-15T14:00:00.000+09:00",
+      "openPrice": "480.1",
+      "highPrice": "480.7205",
+      "lowPrice": "472.52",
+      "closePrice": "474.82",
+      "volume": "23727694",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-16T14:00:00.000+09:00",
+      "openPrice": "471.905",
+      "highPrice": "477.89",
+      "lowPrice": "470.88",
+      "closePrice": "476.39",
+      "volume": "20705560",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-17T14:00:00.000+09:00",
+      "openPrice": "476.905",
+      "highPrice": "480",
+      "lowPrice": "475",
+      "closePrice": "476.12",
+      "volume": "24527176",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-18T14:00:00.000+09:00",
+      "openPrice": "478.19",
+      "highPrice": "489.6",
+      "lowPrice": "477.89",
+      "closePrice": "483.98",
+      "volume": "28573545",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-19T14:00:00.000+09:00",
+      "openPrice": "487.36",
+      "highPrice": "487.85",
+      "lowPrice": "482.49",
+      "closePrice": "485.92",
+      "volume": "70836105",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-22T14:00:00.000+09:00",
+      "openPrice": "486.12",
+      "highPrice": "488.73",
+      "lowPrice": "482.69",
+      "closePrice": "484.92",
+      "volume": "16963019",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-23T14:00:00.000+09:00",
+      "openPrice": "484.98",
+      "highPrice": "487.83",
+      "lowPrice": "484.74",
+      "closePrice": "486.85",
+      "volume": "14683582",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-24T14:00:00.000+09:00",
+      "openPrice": "485.68",
+      "highPrice": "489.1625",
+      "lowPrice": "484.83",
+      "closePrice": "488.02",
+      "volume": "5855880",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-26T14:00:00.000+09:00",
+      "openPrice": "486.705",
+      "highPrice": "488.12",
+      "lowPrice": "485.96",
+      "closePrice": "487.71",
+      "volume": "8842175",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-29T14:00:00.000+09:00",
+      "openPrice": "484.855",
+      "highPrice": "488.35",
+      "lowPrice": "484.18",
+      "closePrice": "487.1",
+      "volume": "10893408",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-30T14:00:00.000+09:00",
+      "openPrice": "485.93",
+      "highPrice": "489.68",
+      "lowPrice": "485.5",
+      "closePrice": "487.48",
+      "volume": "13944512",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2025-12-31T14:00:00.000+09:00",
+      "openPrice": "487.84",
+      "highPrice": "488.14",
+      "lowPrice": "483.3",
+      "closePrice": "483.62",
+      "volume": "15601554",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-02T14:00:00.000+09:00",
+      "openPrice": "484.385",
+      "highPrice": "484.66",
+      "lowPrice": "470.16",
+      "closePrice": "472.94",
+      "volume": "25571567",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-05T14:00:00.000+09:00",
+      "openPrice": "474.055",
+      "highPrice": "476.07",
+      "lowPrice": "469.5",
+      "closePrice": "472.85",
+      "volume": "25250260",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-06T14:00:00.000+09:00",
+      "openPrice": "473.8",
+      "highPrice": "478.7367",
+      "lowPrice": "469.75",
+      "closePrice": "478.51",
+      "volume": "23037665",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-07T14:00:00.000+09:00",
+      "openPrice": "479.755",
+      "highPrice": "489.7",
+      "lowPrice": "477.95",
+      "closePrice": "483.47",
+      "volume": "25564196",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-08T14:00:00.000+09:00",
+      "openPrice": "481.24",
+      "highPrice": "482.66",
+      "lowPrice": "475.86",
+      "closePrice": "478.11",
+      "volume": "18162616",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-09T14:00:00.000+09:00",
+      "openPrice": "474.06",
+      "highPrice": "479.82",
+      "lowPrice": "472.2001",
+      "closePrice": "479.28",
+      "volume": "18491036",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-12T14:00:00.000+09:00",
+      "openPrice": "476.67",
+      "highPrice": "480.99",
+      "lowPrice": "475.6803",
+      "closePrice": "477.18",
+      "volume": "23519895",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-13T14:00:00.000+09:00",
+      "openPrice": "474.675",
+      "highPrice": "475.7799",
+      "lowPrice": "465.95",
+      "closePrice": "470.67",
+      "volume": "28545800",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-14T14:00:00.000+09:00",
+      "openPrice": "466.46",
+      "highPrice": "468.2",
+      "lowPrice": "457.1701",
+      "closePrice": "459.38",
+      "volume": "28184302",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-15T14:00:00.000+09:00",
+      "openPrice": "464.12",
+      "highPrice": "464.25",
+      "lowPrice": "455.9",
+      "closePrice": "456.66",
+      "volume": "23225839",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-16T14:00:00.000+09:00",
+      "openPrice": "457.83",
+      "highPrice": "463.19",
+      "lowPrice": "456.48",
+      "closePrice": "459.86",
+      "volume": "34246650",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-20T14:00:00.000+09:00",
+      "openPrice": "451.215",
+      "highPrice": "456.8",
+      "lowPrice": "449.28",
+      "closePrice": "454.52",
+      "volume": "26129992",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-21T14:00:00.000+09:00",
+      "openPrice": "452.595",
+      "highPrice": "452.69",
+      "lowPrice": "438.68",
+      "closePrice": "444.11",
+      "volume": "37980510",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-22T14:00:00.000+09:00",
+      "openPrice": "447.62",
+      "highPrice": "452.84",
+      "lowPrice": "444.7",
+      "closePrice": "451.14",
+      "volume": "25349378",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-23T14:00:00.000+09:00",
+      "openPrice": "451.87",
+      "highPrice": "471.1",
+      "lowPrice": "450.53",
+      "closePrice": "465.95",
+      "volume": "38000159",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-26T14:00:00.000+09:00",
+      "openPrice": "465.305",
+      "highPrice": "474.25",
+      "lowPrice": "462",
+      "closePrice": "470.28",
+      "volume": "29291235",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-27T14:00:00.000+09:00",
+      "openPrice": "473.7",
+      "highPrice": "482.87",
+      "lowPrice": "473.16",
+      "closePrice": "480.58",
+      "volume": "29213923",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-28T14:00:00.000+09:00",
+      "openPrice": "483.21",
+      "highPrice": "483.74",
+      "lowPrice": "478",
+      "closePrice": "481.63",
+      "volume": "36875403",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-29T14:00:00.000+09:00",
+      "openPrice": "439.99",
+      "highPrice": "442.5",
+      "lowPrice": "421.02",
+      "closePrice": "433.5",
+      "volume": "128855323",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-01-30T14:00:00.000+09:00",
+      "openPrice": "439.17",
+      "highPrice": "439.6",
+      "lowPrice": "426.45",
+      "closePrice": "430.29",
+      "volume": "58566819",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-02T14:00:00.000+09:00",
+      "openPrice": "430.235",
+      "highPrice": "430.736",
+      "lowPrice": "422.25",
+      "closePrice": "423.37",
+      "volume": "42219858",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-03T14:00:00.000+09:00",
+      "openPrice": "422.01",
+      "highPrice": "422.05",
+      "lowPrice": "408.56",
+      "closePrice": "411.21",
+      "volume": "61424123",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-04T14:00:00.000+09:00",
+      "openPrice": "411",
+      "highPrice": "419.8",
+      "lowPrice": "409.24",
+      "closePrice": "414.19",
+      "volume": "45012374",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-05T14:00:00.000+09:00",
+      "openPrice": "407.44",
+      "highPrice": "408.3",
+      "lowPrice": "392.32",
+      "closePrice": "393.67",
+      "volume": "66289247",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-06T14:00:00.000+09:00",
+      "openPrice": "399.165",
+      "highPrice": "401.79",
+      "lowPrice": "392.92",
+      "closePrice": "401.14",
+      "volume": "53515311",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-09T14:00:00.000+09:00",
+      "openPrice": "404.85",
+      "highPrice": "414.89",
+      "lowPrice": "400.87",
+      "closePrice": "413.6",
+      "volume": "45480526",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-10T14:00:00.000+09:00",
+      "openPrice": "419.62",
+      "highPrice": "423.68",
+      "lowPrice": "412.7",
+      "closePrice": "413.27",
+      "volume": "44857850",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-11T14:00:00.000+09:00",
+      "openPrice": "416.175",
+      "highPrice": "416.46",
+      "lowPrice": "401.01",
+      "closePrice": "404.37",
+      "volume": "42491012",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-12T14:00:00.000+09:00",
+      "openPrice": "405",
+      "highPrice": "406.2",
+      "lowPrice": "398.01",
+      "closePrice": "401.84",
+      "volume": "40802362",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-13T14:00:00.000+09:00",
+      "openPrice": "404.45",
+      "highPrice": "405.54",
+      "lowPrice": "398.05",
+      "closePrice": "401.32",
+      "volume": "34091553",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-17T14:00:00.000+09:00",
+      "openPrice": "399.22",
+      "highPrice": "400.52",
+      "lowPrice": "394.525",
+      "closePrice": "396.86",
+      "volume": "32078794",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-18T14:00:00.000+09:00",
+      "openPrice": "398.13",
+      "highPrice": "402.56",
+      "lowPrice": "396.32",
+      "closePrice": "399.6",
+      "volume": "23223417",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-19T14:00:00.000+09:00",
+      "openPrice": "400.69",
+      "highPrice": "404.43",
+      "lowPrice": "396.67",
+      "closePrice": "398.46",
+      "volume": "28234001",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-20T14:00:00.000+09:00",
+      "openPrice": "396.11",
+      "highPrice": "400.1159",
+      "lowPrice": "395.16",
+      "closePrice": "397.23",
+      "volume": "34015249",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-23T14:00:00.000+09:00",
+      "openPrice": "395",
+      "highPrice": "395.36",
+      "lowPrice": "383.1",
+      "closePrice": "384.47",
+      "volume": "43238273",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-24T14:00:00.000+09:00",
+      "openPrice": "384.14",
+      "highPrice": "389.36",
+      "lowPrice": "381.71",
+      "closePrice": "389",
+      "volume": "33884653",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-25T14:00:00.000+09:00",
+      "openPrice": "390.525",
+      "highPrice": "401.47",
+      "lowPrice": "390.16",
+      "closePrice": "400.6",
+      "volume": "43625483",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-26T14:00:00.000+09:00",
+      "openPrice": "404.71",
+      "highPrice": "407.49",
+      "lowPrice": "398.74",
+      "closePrice": "401.72",
+      "volume": "34405869",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-02-27T14:00:00.000+09:00",
+      "openPrice": "390.88",
+      "highPrice": "396.82",
+      "lowPrice": "389.88",
+      "closePrice": "392.74",
+      "volume": "51367196",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-02T14:00:00.000+09:00",
+      "openPrice": "392.855",
+      "highPrice": "401.19",
+      "lowPrice": "390.63",
+      "closePrice": "398.55",
+      "volume": "35474907",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-03T14:00:00.000+09:00",
+      "openPrice": "393.14",
+      "highPrice": "406.7",
+      "lowPrice": "392.67",
+      "closePrice": "403.93",
+      "volume": "38199209",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-04T14:00:00.000+09:00",
+      "openPrice": "401.265",
+      "highPrice": "411.0326",
+      "lowPrice": "400.31",
+      "closePrice": "405.2",
+      "volume": "35807990",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-05T14:00:00.000+09:00",
+      "openPrice": "404.42",
+      "highPrice": "411.61",
+      "lowPrice": "404.4",
+      "closePrice": "410.68",
+      "volume": "39001315",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-06T14:00:00.000+09:00",
+      "openPrice": "409.2",
+      "highPrice": "413.05",
+      "lowPrice": "408.5101",
+      "closePrice": "408.96",
+      "volume": "31123859",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-09T13:00:00.000+09:00",
+      "openPrice": "404.915",
+      "highPrice": "410.21",
+      "lowPrice": "403.5",
+      "closePrice": "409.41",
+      "volume": "30131854",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-10T13:00:00.000+09:00",
+      "openPrice": "410.03",
+      "highPrice": "410.2",
+      "lowPrice": "402.93",
+      "closePrice": "405.76",
+      "volume": "31706375",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-11T13:00:00.000+09:00",
+      "openPrice": "405.57",
+      "highPrice": "409.01",
+      "lowPrice": "401.59",
+      "closePrice": "404.88",
+      "volume": "25512139",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-12T13:00:00.000+09:00",
+      "openPrice": "404.63",
+      "highPrice": "406.12",
+      "lowPrice": "401.71",
+      "closePrice": "401.86",
+      "volume": "27263886",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-13T13:00:00.000+09:00",
+      "openPrice": "401",
+      "highPrice": "404.8",
+      "lowPrice": "394.25",
+      "closePrice": "395.55",
+      "volume": "26848000",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-16T13:00:00.000+09:00",
+      "openPrice": "398.07",
+      "highPrice": "400.63",
+      "lowPrice": "394.79",
+      "closePrice": "399.95",
+      "volume": "27733721",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-17T13:00:00.000+09:00",
+      "openPrice": "400.27",
+      "highPrice": "404.4",
+      "lowPrice": "397.745",
+      "closePrice": "399.41",
+      "volume": "26228279",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-18T13:00:00.000+09:00",
+      "openPrice": "397.125",
+      "highPrice": "398",
+      "lowPrice": "391",
+      "closePrice": "391.79",
+      "volume": "25908484",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-19T13:00:00.000+09:00",
+      "openPrice": "390.1",
+      "highPrice": "392.49",
+      "lowPrice": "387.06",
+      "closePrice": "389.02",
+      "volume": "25138772",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-20T13:00:00.000+09:00",
+      "openPrice": "386.79",
+      "highPrice": "387",
+      "lowPrice": "380.12",
+      "closePrice": "381.87",
+      "volume": "50853154",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-23T13:00:00.000+09:00",
+      "openPrice": "383.9",
+      "highPrice": "387.21",
+      "lowPrice": "381.68",
+      "closePrice": "383",
+      "volume": "29680059",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-24T13:00:00.000+09:00",
+      "openPrice": "382.36",
+      "highPrice": "382.47",
+      "lowPrice": "371.85",
+      "closePrice": "372.74",
+      "volume": "42733625",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-25T13:00:00.000+09:00",
+      "openPrice": "376.92",
+      "highPrice": "377.06",
+      "lowPrice": "369.63",
+      "closePrice": "371.04",
+      "volume": "31181163",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-26T13:00:00.000+09:00",
+      "openPrice": "370.815",
+      "highPrice": "374.7199",
+      "lowPrice": "365.19",
+      "closePrice": "365.97",
+      "volume": "36836574",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-27T13:00:00.000+09:00",
+      "openPrice": "361.9",
+      "highPrice": "362.45",
+      "lowPrice": "356.51",
+      "closePrice": "356.77",
+      "volume": "37883400",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-30T13:00:00.000+09:00",
+      "openPrice": "361.895",
+      "highPrice": "365.36",
+      "lowPrice": "356.28",
+      "closePrice": "358.96",
+      "volume": "44797002",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-03-31T13:00:00.000+09:00",
+      "openPrice": "364.55",
+      "highPrice": "372.9",
+      "lowPrice": "363.07",
+      "closePrice": "370.17",
+      "volume": "45244365",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-01T13:00:00.000+09:00",
+      "openPrice": "373.49",
+      "highPrice": "373.99",
+      "lowPrice": "368.2",
+      "closePrice": "369.37",
+      "volume": "29417206",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-02T13:00:00.000+09:00",
+      "openPrice": "367.205",
+      "highPrice": "373.64",
+      "lowPrice": "364.15",
+      "closePrice": "373.46",
+      "volume": "24099067",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-06T13:00:00.000+09:00",
+      "openPrice": "373.49",
+      "highPrice": "373.73",
+      "lowPrice": "369.5014",
+      "closePrice": "372.88",
+      "volume": "16146572",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-07T13:00:00.000+09:00",
+      "openPrice": "370.34",
+      "highPrice": "372.45",
+      "lowPrice": "366.56",
+      "closePrice": "372.29",
+      "volume": "21443349",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-08T13:00:00.000+09:00",
+      "openPrice": "384.98",
+      "highPrice": "385",
+      "lowPrice": "371.41",
+      "closePrice": "374.33",
+      "volume": "33064818",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-09T13:00:00.000+09:00",
+      "openPrice": "372.5",
+      "highPrice": "373.5",
+      "lowPrice": "367.05",
+      "closePrice": "373.07",
+      "volume": "30435297",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-10T13:00:00.000+09:00",
+      "openPrice": "372.98",
+      "highPrice": "375.64",
+      "lowPrice": "370.03",
+      "closePrice": "370.87",
+      "volume": "28111128",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-13T13:00:00.000+09:00",
+      "openPrice": "373.605",
+      "highPrice": "384.54",
+      "lowPrice": "371.02",
+      "closePrice": "384.37",
+      "volume": "35745781",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-14T13:00:00.000+09:00",
+      "openPrice": "387.915",
+      "highPrice": "394.69",
+      "lowPrice": "386.52",
+      "closePrice": "393.11",
+      "volume": "37504486",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-15T13:00:00.000+09:00",
+      "openPrice": "398",
+      "highPrice": "414.3699",
+      "lowPrice": "396.73",
+      "closePrice": "411.22",
+      "volume": "45063389",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-16T13:00:00.000+09:00",
+      "openPrice": "419.86",
+      "highPrice": "420.82",
+      "lowPrice": "412.14",
+      "closePrice": "420.26",
+      "volume": "41642361",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-17T13:00:00.000+09:00",
+      "openPrice": "424.82",
+      "highPrice": "431.58",
+      "lowPrice": "420.69",
+      "closePrice": "422.79",
+      "volume": "48568190",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-20T13:00:00.000+09:00",
+      "openPrice": "421.145",
+      "highPrice": "423.33",
+      "lowPrice": "416.3",
+      "closePrice": "418.07",
+      "volume": "27582237",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-21T13:00:00.000+09:00",
+      "openPrice": "420.24",
+      "highPrice": "427.18",
+      "lowPrice": "417.2",
+      "closePrice": "424.16",
+      "volume": "32048495",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-22T13:00:00.000+09:00",
+      "openPrice": "426.185",
+      "highPrice": "433.7",
+      "lowPrice": "423.67",
+      "closePrice": "432.92",
+      "volume": "29378173",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-23T13:00:00.000+09:00",
+      "openPrice": "419.885",
+      "highPrice": "423.66",
+      "lowPrice": "411.4101",
+      "closePrice": "415.75",
+      "volume": "38307959",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-24T13:00:00.000+09:00",
+      "openPrice": "416.97",
+      "highPrice": "424.95",
+      "lowPrice": "415.8",
+      "closePrice": "424.62",
+      "volume": "27457404",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-27T13:00:00.000+09:00",
+      "openPrice": "422.375",
+      "highPrice": "427.11",
+      "lowPrice": "417.0701",
+      "closePrice": "424.82",
+      "volume": "30867303",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-28T13:00:00.000+09:00",
+      "openPrice": "424.57",
+      "highPrice": "429.92",
+      "lowPrice": "421.9",
+      "closePrice": "429.25",
+      "volume": "30438087",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-29T13:00:00.000+09:00",
+      "openPrice": "424.575",
+      "highPrice": "426.82",
+      "lowPrice": "420.29",
+      "closePrice": "424.46",
+      "volume": "38288316",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-04-30T13:00:00.000+09:00",
+      "openPrice": "410.81",
+      "highPrice": "414.42",
+      "lowPrice": "398.01",
+      "closePrice": "407.78",
+      "volume": "70909408",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-01T13:00:00.000+09:00",
+      "openPrice": "412.8",
+      "highPrice": "417.11",
+      "lowPrice": "410.435",
+      "closePrice": "414.44",
+      "volume": "31372361",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-04T13:00:00.000+09:00",
+      "openPrice": "411.54",
+      "highPrice": "420.78",
+      "lowPrice": "410.8",
+      "closePrice": "413.62",
+      "volume": "28066528",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-05T13:00:00.000+09:00",
+      "openPrice": "415.32",
+      "highPrice": "416.7799",
+      "lowPrice": "408.8",
+      "closePrice": "411.38",
+      "volume": "25700891",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-06T13:00:00.000+09:00",
+      "openPrice": "408",
+      "highPrice": "418.4228",
+      "lowPrice": "405.11",
+      "closePrice": "413.96",
+      "volume": "30285898",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-07T13:00:00.000+09:00",
+      "openPrice": "420.11",
+      "highPrice": "427.98",
+      "lowPrice": "418.76",
+      "closePrice": "420.77",
+      "volume": "34942445",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-08T13:00:00.000+09:00",
+      "openPrice": "417.385",
+      "highPrice": "418.63",
+      "lowPrice": "414",
+      "closePrice": "415.12",
+      "volume": "33383790",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-11T13:00:00.000+09:00",
+      "openPrice": "407.87",
+      "highPrice": "412.69",
+      "lowPrice": "405.5",
+      "closePrice": "412.66",
+      "volume": "35657943",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-12T13:00:00.000+09:00",
+      "openPrice": "414.48",
+      "highPrice": "415.5",
+      "lowPrice": "406.64",
+      "closePrice": "407.77",
+      "volume": "38594221",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-13T13:00:00.000+09:00",
+      "openPrice": "403.2",
+      "highPrice": "406.31",
+      "lowPrice": "401.03",
+      "closePrice": "405.21",
+      "volume": "29667073",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-14T13:00:00.000+09:00",
+      "openPrice": "404.48",
+      "highPrice": "411.84",
+      "lowPrice": "400.88",
+      "closePrice": "409.43",
+      "volume": "27077542",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-15T13:00:00.000+09:00",
+      "openPrice": "414.27",
+      "highPrice": "428.17",
+      "lowPrice": "412.91",
+      "closePrice": "421.92",
+      "volume": "50771160",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-18T13:00:00.000+09:00",
+      "openPrice": "416.62",
+      "highPrice": "425.12",
+      "lowPrice": "415.61",
+      "closePrice": "423.54",
+      "volume": "32564130",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-19T13:00:00.000+09:00",
+      "openPrice": "429.9",
+      "highPrice": "432.7",
+      "lowPrice": "416.49",
+      "closePrice": "417.42",
+      "volume": "33018678",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-20T13:00:00.000+09:00",
+      "openPrice": "414.165",
+      "highPrice": "422.1",
+      "lowPrice": "411.3001",
+      "closePrice": "421.06",
+      "volume": "27864016",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-21T13:00:00.000+09:00",
+      "openPrice": "424.75",
+      "highPrice": "426.34",
+      "lowPrice": "415.71",
+      "closePrice": "419.09",
+      "volume": "31393469",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-22T13:00:00.000+09:00",
+      "openPrice": "419.535",
+      "highPrice": "424.4",
+      "lowPrice": "416.33",
+      "closePrice": "418.57",
+      "volume": "22390344",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-26T13:00:00.000+09:00",
+      "openPrice": "416.43",
+      "highPrice": "419.77",
+      "lowPrice": "413.02",
+      "closePrice": "416.03",
+      "volume": "30398049",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-27T13:00:00.000+09:00",
+      "openPrice": "411.01",
+      "highPrice": "415.94",
+      "lowPrice": "409.58",
+      "closePrice": "412.67",
+      "volume": "28901479",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-28T13:00:00.000+09:00",
+      "openPrice": "412.975",
+      "highPrice": "429.49",
+      "lowPrice": "412.67",
+      "closePrice": "426.99",
+      "volume": "47250541",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-05-29T13:00:00.000+09:00",
+      "openPrice": "432.545",
+      "highPrice": "450.33",
+      "lowPrice": "432.36",
+      "closePrice": "450.24",
+      "volume": "79654376",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-01T13:00:00.000+09:00",
+      "openPrice": "464.84",
+      "highPrice": "466.32",
+      "lowPrice": "458.27",
+      "closePrice": "460.52",
+      "volume": "53628910",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-02T13:00:00.000+09:00",
+      "openPrice": "446.88",
+      "highPrice": "453.5",
+      "lowPrice": "440.43",
+      "closePrice": "441.31",
+      "volume": "37036801",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-03T13:00:00.000+09:00",
+      "openPrice": "438.45",
+      "highPrice": "440.39",
+      "lowPrice": "424.25",
+      "closePrice": "427.34",
+      "volume": "39037007",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-04T13:00:00.000+09:00",
+      "openPrice": "435.81",
+      "highPrice": "436.15",
+      "lowPrice": "426.41",
+      "closePrice": "428.05",
+      "volume": "26899511",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-05T13:00:00.000+09:00",
+      "openPrice": "428.34",
+      "highPrice": "429.47",
+      "lowPrice": "414.4",
+      "closePrice": "416.67",
+      "volume": "34782164",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-08T13:00:00.000+09:00",
+      "openPrice": "414.14",
+      "highPrice": "417.1599",
+      "lowPrice": "408.56",
+      "closePrice": "411.74",
+      "volume": "32086714",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-09T13:00:00.000+09:00",
+      "openPrice": "409.03",
+      "highPrice": "411.98",
+      "lowPrice": "398.48",
+      "closePrice": "403.41",
+      "volume": "35317302",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-10T13:00:00.000+09:00",
+      "openPrice": "398.55",
+      "highPrice": "405.04",
+      "lowPrice": "397.16",
+      "closePrice": "397.36",
+      "volume": "32576041",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-11T13:00:00.000+09:00",
+      "openPrice": "395.205",
+      "highPrice": "396.85",
+      "lowPrice": "384",
+      "closePrice": "390.34",
+      "volume": "47224135",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-12T13:00:00.000+09:00",
+      "openPrice": "391.43",
+      "highPrice": "391.74",
+      "lowPrice": "382.27",
+      "closePrice": "390.74",
+      "volume": "34922036",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-15T13:00:00.000+09:00",
+      "openPrice": "396.795",
+      "highPrice": "401.75",
+      "lowPrice": "392.845",
+      "closePrice": "399.76",
+      "volume": "32266437",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-16T13:00:00.000+09:00",
+      "openPrice": "395.79",
+      "highPrice": "396.84",
+      "lowPrice": "390.69",
+      "closePrice": "393.83",
+      "volume": "31506846",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-17T13:00:00.000+09:00",
+      "openPrice": "390.25",
+      "highPrice": "390.37",
+      "lowPrice": "377.32",
+      "closePrice": "378.91",
+      "volume": "41987834",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-18T13:00:00.000+09:00",
+      "openPrice": "377.82",
+      "highPrice": "381.37",
+      "lowPrice": "373.28",
+      "closePrice": "379.4",
+      "volume": "59714157",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-22T13:00:00.000+09:00",
+      "openPrice": "375.74",
+      "highPrice": "381.63",
+      "lowPrice": "367.07",
+      "closePrice": "367.34",
+      "volume": "45171106",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-23T13:00:00.000+09:00",
+      "openPrice": "372.38",
+      "highPrice": "377.22",
+      "lowPrice": "370.67",
+      "closePrice": "373.94",
+      "volume": "40647605",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-24T13:00:00.000+09:00",
+      "openPrice": "371.57",
+      "highPrice": "378.88",
+      "lowPrice": "364.78",
+      "closePrice": "365.46",
+      "volume": "44509854",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-25T13:00:00.000+09:00",
+      "openPrice": "362.77",
+      "highPrice": "364.23",
+      "lowPrice": "349.2",
+      "closePrice": "352.83",
+      "volume": "66360473",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-26T13:00:00.000+09:00",
+      "openPrice": "357.15",
+      "highPrice": "376.61",
+      "lowPrice": "355.43",
+      "closePrice": "372.97",
+      "volume": "186201631",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-29T13:00:00.000+09:00",
+      "openPrice": "377.5",
+      "highPrice": "380.5",
+      "lowPrice": "359.9",
+      "closePrice": "368.57",
+      "volume": "51229885",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-06-30T13:00:00.000+09:00",
+      "openPrice": "371.03",
+      "highPrice": "374.15",
+      "lowPrice": "367.45",
+      "closePrice": "373.02",
+      "volume": "44945696",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-01T13:00:00.000+09:00",
+      "openPrice": "380.825",
+      "highPrice": "388.83",
+      "lowPrice": "374.89",
+      "closePrice": "384.28",
+      "volume": "48065801",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-02T13:00:00.000+09:00",
+      "openPrice": "384.48",
+      "highPrice": "392.2",
+      "lowPrice": "383.7",
+      "closePrice": "390.49",
+      "volume": "42194409",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-06T13:00:00.000+09:00",
+      "openPrice": "387.04",
+      "highPrice": "389.15",
+      "lowPrice": "381.22",
+      "closePrice": "386.74",
+      "volume": "34224543",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-07T13:00:00.000+09:00",
+      "openPrice": "392.49",
+      "highPrice": "395.57",
+      "lowPrice": "388.22",
+      "closePrice": "388.84",
+      "volume": "29297524",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-08T13:00:00.000+09:00",
+      "openPrice": "384.03",
+      "highPrice": "385.31",
+      "lowPrice": "381.33",
+      "closePrice": "383.34",
+      "volume": "25908255",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-09T13:00:00.000+09:00",
+      "openPrice": "374.45",
+      "highPrice": "384.65",
+      "lowPrice": "373.35",
+      "closePrice": "384.36",
+      "volume": "31083197",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-10T13:00:00.000+09:00",
+      "openPrice": "387.8",
+      "highPrice": "391.91",
+      "lowPrice": "381.5",
+      "closePrice": "385.1",
+      "volume": "24644605",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-13T13:00:00.000+09:00",
+      "openPrice": "387.745",
+      "highPrice": "393.65",
+      "lowPrice": "384.15",
+      "closePrice": "390.99",
+      "volume": "28914877",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-14T13:00:00.000+09:00",
+      "openPrice": "382.82",
+      "highPrice": "388.19",
+      "lowPrice": "378.65",
+      "closePrice": "384.93",
+      "volume": "27863916",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-15T13:00:00.000+09:00",
+      "openPrice": "387.8",
+      "highPrice": "398.96",
+      "lowPrice": "386.4",
+      "closePrice": "395.63",
+      "volume": "36253745",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-16T13:00:00.000+09:00",
+      "openPrice": "398.31",
+      "highPrice": "405.99",
+      "lowPrice": "392.0501",
+      "closePrice": "401.1",
+      "volume": "37047443",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-17T13:00:00.000+09:00",
+      "openPrice": "394.855",
+      "highPrice": "398.39",
+      "lowPrice": "389.39",
+      "closePrice": "393.82",
+      "volume": "33049842",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-20T13:00:00.000+09:00",
+      "openPrice": "391.41",
+      "highPrice": "403.18",
+      "lowPrice": "389.65",
+      "closePrice": "402.29",
+      "volume": "27915762",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-21T13:00:00.000+09:00",
+      "openPrice": "398.805",
+      "highPrice": "401.47",
+      "lowPrice": "396.32",
+      "closePrice": "397.75",
+      "volume": "24126632",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-22T13:00:00.000+09:00",
+      "openPrice": "399.58",
+      "highPrice": "401",
+      "lowPrice": "386.96",
+      "closePrice": "390.34",
+      "volume": "28142511",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-23T13:00:00.000+09:00",
+      "openPrice": "389.965",
+      "highPrice": "391.78",
+      "lowPrice": "377.39",
+      "closePrice": "381.58",
+      "volume": "30351752",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-24T13:00:00.000+09:00",
+      "openPrice": "387.05",
+      "highPrice": "389.03",
+      "lowPrice": "380.65",
+      "closePrice": "381.7",
+      "volume": "27659388",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-27T13:00:00.000+09:00",
+      "openPrice": "390.08",
+      "highPrice": "394.2",
+      "lowPrice": "387.99",
+      "closePrice": "389.1",
+      "volume": "27856160",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-28T13:00:00.000+09:00",
+      "openPrice": "393.16",
+      "highPrice": "400.32",
+      "lowPrice": "391.3",
+      "closePrice": "393.35",
+      "volume": "32367546",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-29T13:00:00.000+09:00",
+      "openPrice": "393.4",
+      "highPrice": "401.25",
+      "lowPrice": "388.74",
+      "closePrice": "390.54",
+      "volume": "47209032",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-30T13:00:00.000+09:00",
+      "openPrice": "437.9",
+      "highPrice": "458.69",
+      "lowPrice": "432.44",
+      "closePrice": "451.1",
+      "volume": "110160704",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-07-31T13:00:00.000+09:00",
+      "openPrice": "450",
+      "highPrice": "466.84",
+      "lowPrice": "449.33",
+      "closePrice": "464.72",
+      "volume": "60845971",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-03T13:00:00.000+09:00",
+      "openPrice": "476.125",
+      "highPrice": "491.65",
+      "lowPrice": "475",
+      "closePrice": "487.65",
+      "volume": "66762074",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-04T13:00:00.000+09:00",
+      "openPrice": "480.9",
+      "highPrice": "499.4399",
+      "lowPrice": "479.17",
+      "closePrice": "492.81",
+      "volume": "50455454",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-05T13:00:00.000+09:00",
+      "openPrice": "496.355",
+      "highPrice": "498.24",
+      "lowPrice": "485.68",
+      "closePrice": "487.46",
+      "volume": "33388871",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-06T13:00:00.000+09:00",
+      "openPrice": "488.55",
+      "highPrice": "501.555",
+      "lowPrice": "488.52",
+      "closePrice": "499.86",
+      "volume": "36441544",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-07T13:00:00.000+09:00",
+      "openPrice": "499.21",
+      "highPrice": "505.18",
+      "lowPrice": "498.73",
+      "closePrice": "499.99",
+      "volume": "28846235",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-10T13:00:00.000+09:00",
+      "openPrice": "503.44",
+      "highPrice": "513.73",
+      "lowPrice": "502.27",
+      "closePrice": "506.06",
+      "volume": "31206137",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-11T13:00:00.000+09:00",
+      "openPrice": "504.33",
+      "highPrice": "505.33",
+      "lowPrice": "499.55",
+      "closePrice": "503.81",
+      "volume": "23049791",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-12T13:00:00.000+09:00",
+      "openPrice": "499.99",
+      "highPrice": "501.5",
+      "lowPrice": "491.52",
+      "closePrice": "492.43",
+      "volume": "29001478",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-13T13:00:00.000+09:00",
+      "openPrice": "493.265",
+      "highPrice": "501.34",
+      "lowPrice": "493.01",
+      "closePrice": "496.88",
+      "volume": "23038979",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-14T13:00:00.000+09:00",
+      "openPrice": "496.355",
+      "highPrice": "500.01",
+      "lowPrice": "493.92",
+      "closePrice": "495.4",
+      "volume": "16217647",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-17T13:00:00.000+09:00",
+      "openPrice": "490.14",
+      "highPrice": "492.66",
+      "lowPrice": "478.41",
+      "closePrice": "480.35",
+      "volume": "29635848",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-18T13:00:00.000+09:00",
+      "openPrice": "481.54",
+      "highPrice": "484.27",
+      "lowPrice": "477.1505",
+      "closePrice": "481.63",
+      "volume": "24087591",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-19T13:00:00.000+09:00",
+      "openPrice": "480.065",
+      "highPrice": "489.3",
+      "lowPrice": "479.36",
+      "closePrice": "484.31",
+      "volume": "19961871",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-20T13:00:00.000+09:00",
+      "openPrice": "483.3",
+      "highPrice": "484.16",
+      "lowPrice": "479.5",
+      "closePrice": "481.15",
+      "volume": "20020822",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-21T13:00:00.000+09:00",
+      "openPrice": "479.88",
+      "highPrice": "486.36",
+      "lowPrice": "478.53",
+      "closePrice": "483.24",
+      "volume": "22510774",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-24T13:00:00.000+09:00",
+      "openPrice": "483.205",
+      "highPrice": "490.605",
+      "lowPrice": "481.86",
+      "closePrice": "487.31",
+      "volume": "17230751",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-25T13:00:00.000+09:00",
+      "openPrice": "485.44",
+      "highPrice": "492.435",
+      "lowPrice": "484.3",
+      "closePrice": "491.71",
+      "volume": "19518987",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-26T13:00:00.000+09:00",
+      "openPrice": "487.85",
+      "highPrice": "497.4",
+      "lowPrice": "487.31",
+      "closePrice": "496.37",
+      "volume": "20758853",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-27T13:00:00.000+09:00",
+      "openPrice": "494.88",
+      "highPrice": "506.48",
+      "lowPrice": "490.08",
+      "closePrice": "505.06",
+      "volume": "28688756",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-28T13:00:00.000+09:00",
+      "openPrice": "505.33",
+      "highPrice": "517.78",
+      "lowPrice": "504.8675",
+      "closePrice": "513.53",
+      "volume": "29207325",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-08-31T13:00:00.000+09:00",
+      "openPrice": "510.38",
+      "highPrice": "512.19",
+      "lowPrice": "506.39",
+      "closePrice": "507.29",
+      "volume": "27208911",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-01T13:00:00.000+09:00",
+      "openPrice": "497.52",
+      "highPrice": "505.97",
+      "lowPrice": "496.78",
+      "closePrice": "501.02",
+      "volume": "21046892",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-02T13:00:00.000+09:00",
+      "openPrice": "499.85",
+      "highPrice": "500.27",
+      "lowPrice": "493.81",
+      "closePrice": "496.82",
+      "volume": "15336074",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-03T13:00:00.000+09:00",
+      "openPrice": "501.66",
+      "highPrice": "515.65",
+      "lowPrice": "500.8",
+      "closePrice": "510.12",
+      "volume": "24125893",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-04T13:00:00.000+09:00",
+      "openPrice": "510",
+      "highPrice": "511",
+      "lowPrice": "499.36",
+      "closePrice": "499.7",
+      "volume": "18101758",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-08T13:00:00.000+09:00",
+      "openPrice": "493.01",
+      "highPrice": "495.19",
+      "lowPrice": "490.15",
+      "closePrice": "493.95",
+      "volume": "18882338",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-09T13:00:00.000+09:00",
+      "openPrice": "493.07",
+      "highPrice": "494.39",
+      "lowPrice": "489.8",
+      "closePrice": "491.65",
+      "volume": "12889572",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-10T13:00:00.000+09:00",
+      "openPrice": "488.32",
+      "highPrice": "494.52",
+      "lowPrice": "486",
+      "closePrice": "492.44",
+      "volume": "16038805",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-11T13:00:00.000+09:00",
+      "openPrice": "495.65",
+      "highPrice": "498.97",
+      "lowPrice": "492.58",
+      "closePrice": "495.63",
+      "volume": "14518435",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-14T13:00:00.000+09:00",
+      "openPrice": "497.06",
+      "highPrice": "509.95",
+      "lowPrice": "495.3416",
+      "closePrice": "505.41",
+      "volume": "23091892",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-15T13:00:00.000+09:00",
+      "openPrice": "500.06",
+      "highPrice": "505.9",
+      "lowPrice": "495.54",
+      "closePrice": "497.12",
+      "volume": "17794612",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-16T13:00:00.000+09:00",
+      "openPrice": "493.03",
+      "highPrice": "495.97",
+      "lowPrice": "487.23",
+      "closePrice": "490.3",
+      "volume": "16670285",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-17T13:00:00.000+09:00",
+      "openPrice": "497.795",
+      "highPrice": "501.47",
+      "lowPrice": "493.17",
+      "closePrice": "497.75",
+      "volume": "17841640",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-18T13:00:00.000+09:00",
+      "openPrice": "497.965",
+      "highPrice": "498.65",
+      "lowPrice": "491.1",
+      "closePrice": "493.78",
+      "volume": "39622288",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-21T13:00:00.000+09:00",
+      "openPrice": "494.945",
+      "highPrice": "501.87",
+      "lowPrice": "491.33",
+      "closePrice": "501.61",
+      "volume": "27959944",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-22T13:00:00.000+09:00",
+      "openPrice": "507.32",
+      "highPrice": "508.5",
+      "lowPrice": "493.65",
+      "closePrice": "498",
+      "volume": "21652838",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-23T13:00:00.000+09:00",
+      "openPrice": "500.755",
+      "highPrice": "509.44",
+      "lowPrice": "495.88",
+      "closePrice": "500.59",
+      "volume": "19445555",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-24T13:00:00.000+09:00",
+      "openPrice": "495.07",
+      "highPrice": "498.9",
+      "lowPrice": "491.22",
+      "closePrice": "497.93",
+      "volume": "16657643",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-25T13:00:00.000+09:00",
+      "openPrice": "499.035",
+      "highPrice": "519.4",
+      "lowPrice": "497.25",
+      "closePrice": "516.17",
+      "volume": "38193112",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-28T13:00:00.000+09:00",
+      "openPrice": "505.47",
+      "highPrice": "513.33",
+      "lowPrice": "502.22",
+      "closePrice": "509.22",
+      "volume": "19626939",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-29T13:00:00.000+09:00",
+      "openPrice": "508.31",
+      "highPrice": "513.64",
+      "lowPrice": "502.4",
+      "closePrice": "508.96",
+      "volume": "21341832",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-09-30T13:00:00.000+09:00",
+      "openPrice": "511.61",
+      "highPrice": "519.83",
+      "lowPrice": "510.31",
+      "closePrice": "512.9",
+      "volume": "27223264",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-01T13:00:00.000+09:00",
+      "openPrice": "519.88",
+      "highPrice": "522.85",
+      "lowPrice": "512.17",
+      "closePrice": "512.8",
+      "volume": "19731882",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-02T13:00:00.000+09:00",
+      "openPrice": "519.385",
+      "highPrice": "522.5",
+      "lowPrice": "513.66",
+      "closePrice": "517.53",
+      "volume": "17822339",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-05T13:00:00.000+09:00",
+      "openPrice": "521.62",
+      "highPrice": "532.35",
+      "lowPrice": "521.47",
+      "closePrice": "525.18",
+      "volume": "26604760",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-06T13:00:00.000+09:00",
+      "openPrice": "531.68",
+      "highPrice": "535.69",
+      "lowPrice": "528.78",
+      "closePrice": "529.3",
+      "volume": "21107455",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-07T13:00:00.000+09:00",
+      "openPrice": "530.725",
+      "highPrice": "531.73",
+      "lowPrice": "524.69",
+      "closePrice": "529.76",
+      "volume": "16790229",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-08T13:00:00.000+09:00",
+      "openPrice": "529.805",
+      "highPrice": "533.51",
+      "lowPrice": "518.79",
+      "closePrice": "522.61",
+      "volume": "20228699",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-09T13:00:00.000+09:00",
+      "openPrice": "528.235",
+      "highPrice": "537.22",
+      "lowPrice": "526.2401",
+      "closePrice": "535.07",
+      "volume": "18500612",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-12T13:00:00.000+09:00",
+      "openPrice": "537.53",
+      "highPrice": "542.74",
+      "lowPrice": "535.7013",
+      "closePrice": "541.15",
+      "volume": "18314943",
+      "currency": "USD"
+    },
+    {
+      "timestamp": "2026-10-13T13:00:00.000+09:00",
+      "openPrice": "544.64",
+      "highPrice": "551.15",
+      "lowPrice": "543.06",
+      "closePrice": "543.45",
+      "volume": "23851953",
+      "currency": "USD"
+    }
+  ],
+  "source_metadata": {
+    "source": "toss",
+    "requested_adjustment": true,
+    "applied_adjustment": null,
+    "split_adjustment": null,
+    "dividend_adjustment": null,
+    "total_return_verified": null,
+    "adjustment_status": "unavailable",
+    "adjustment_reason_codes": [
+      "PROVIDER_ADJUSTMENT_UNVERIFIED"
+    ],
+    "exchange_timezone": null,
+    "session": null,
+    "boundary_policy": "before_inclusive_local_filter; start_date/end_date_inclusive_local_label",
+    "provider_before_boundary": "unverified",
+    "complete_scope": "paging_exhausted_or_start_label_reached; historical_coverage_unverified",
+    "merge_policy": "timestamp_ascending_deduplicate; first_seen_on_conflict"
+  }
+}

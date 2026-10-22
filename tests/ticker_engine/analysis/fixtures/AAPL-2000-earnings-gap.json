@@ -1,0 +1,43 @@
+{
+  "source": "Daily OHLCV rows from a market-data provider, recorded 2026-10-15",
+  "note": "Exact two OHLCV rows surrounding the reported split-warning false positive. No account data.",
+  "event": "Earnings outlook cut announced 2000-09-28; next trading day is not an Apple split date.",
+  "sources": [
+    "https://www.apple.com/newsroom/2000/09/28Apple-to-Report-Lower-than-Expected-Fourth-Quarter-Earnings/",
+    "https://investor.apple.com/dividend-history/default.aspx"
+  ],
+  "warning": {
+    "code": "possible_unadjusted_split",
+    "date": "2000-09-29",
+    "previous_date": "2000-09-28",
+    "symbol": "AAPL",
+    "market": "us",
+    "ratio": 0.5267950596608751,
+    "nearest_split_factor": 0.5,
+    "message": "Possible unadjusted split: AAPL 2000-09-29, open/prior close 0.5268 near 0.5000; unverified"
+  },
+  "bars": [
+    {
+      "timestamp": "2000-09-28T13:00:00.000+09:00",
+      "date": "2000-09-28",
+      "open": 0.90243888,
+      "high": 0.98473032,
+      "low": 0.88071312,
+      "close": 0.97909392,
+      "volume": 34141491,
+      "currency": "USD",
+      "closed": true
+    },
+    {
+      "timestamp": "2000-09-29T13:00:00.000+09:00",
+      "date": "2000-09-29",
+      "open": 0.51578184,
+      "high": 0.53074392,
+      "low": 0.46433688,
+      "close": 0.47120304,
+      "volume": 25865437,
+      "currency": "USD",
+      "closed": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "fixture_kind": "synthetic",
+    "description": "Bar ordering, OHLC ranges, nonnegative volume and daily interval guard.",
+    "clock_utc": "2026-09-09T12:00:00Z",
+    "notes": "Constructed acceptance scenario; never a live response or endpoint probe."
+  },
+  "cases": [
+    {
+      "id": "duplicate_time",
+      "body": {
+        "bars": [
+          {
+            "time": 1757376000,
+            "open": 99.8,
+            "high": 101.0,
+            "low": 99.0,
+            "close": 100.0,
+            "volume": 0
+          },
+          {
+            "time": 1757376000,
+            "open": 99.8,
+            "high": 101.0,
+            "low": 99.0,
+            "close": 100.0,
+            "volume": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "invalid_range",
+      "body": {
+        "bars": [
+          {
+            "time": 1757376000,
+            "open": 99.8,
+            "high": 98,
+            "low": 99.0,
+            "close": 100.0,
+            "volume": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "negative_volume",
+      "body": {
+        "bars": [
+          {
+            "time": 1757376000,
+            "open": 99.8,
+            "high": 101.0,
+            "low": 99.0,
+            "close": 100.0,
+            "volume": -1
+          }
+        ]
+      }
+    },
+    {
+      "id": "unsupported_interval",
+      "body": {
+        "interval": "hour",
+        "bars": [
+          {
+            "time": 1757376000,
+            "open": 99.8,
+            "high": 101.0,
+            "low": 99.0,
+            "close": 100.0,
+            "volume": 0
+          }
+        ]
+      }
+    }
+  ],
+  "expected": {
+    "each_case_rejected": true,
+    "no_technical_calculations": true
+  }
+}
